@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "name": "Hai",
+  "email": "Hai@gamil.com",
+  "age": 30,
+  "address": {
+    "street": "so 8 Ton That Thuyet",
+    "city": "HaNoi",
+    "code": 10000
+  },
+  "paymentMethod": [
+    "Paypal",
+    "Momo",
+    "ApplePay"
+  ],
+  "project": [
+    {
+      "title": "Coffee shop",
+      "budget": 10000
+    },
+    {
+      "title": "Spa shop",
+      "budget": 5000
+    }
+  ]
+}
